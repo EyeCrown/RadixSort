@@ -5,7 +5,6 @@
 
 //
 // Tiny experimentation with The Least Significant Digit Radix Sort
-// (Took inspiration from the video "Visualization of Radix sort" - https://youtu.be/mVRHvZF8xtg?feature=shared&t=271
 //
 
 int main() {
